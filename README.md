@@ -23,10 +23,10 @@ An interactive Google Colab notebook that generates professional tweets using **
 2. Install dependencies:
    ```bash
    !pip install google-generativeai ipywidgets
-3.Enter your Gemini API key when prompted.
 
-4.Start generating tweets!
-🛠 Tech Stack
+3. Enter your Gemini API key when prompted.
+4. Start generating tweets!
+## 🛠 Tech Stack
 Python
 
 Google Gemini API
@@ -34,27 +34,19 @@ Google Gemini API
 ipywidgets
 
 Google Colab
-
-🔐 API Key Security
+## 🔐 API Key Security
 We use input() for API key entry, so it’s never stored in the notebook.
-
-csharp
-Copy
-Edit
-
-3. Save it as:
-README.md
-
-yaml
-Copy
-Edit
-**In the same folder where your notebook is (C:\Users\tousi\Downloads)**.
 
 ---
 
-### ✅ **Step 2: Open Command Prompt**
-Go to your Downloads folder:
+### ✅ How to Fix Your README:
+1. Open your `README.md` file in **Notepad**.
+2. Delete everything in it.
+3. Paste the **above content**.
+4. Save the file.
+5. Push changes:
 ```bash
-cd C:\Users\tousi\Downloads
-
+git add README.md
+git commit -m "Fixed README formatting"
+git push origin main
 
