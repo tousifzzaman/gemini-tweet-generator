@@ -1,17 +1,42 @@
 🚀 Gemini Tweet Generator
-An interactive Google Colab notebook that generates professional tweets using Google Gemini API.
-✅ Features
+An interactive Google Colab notebook that generates professional tweets using the Google Gemini API.
 
+✅ Features
 Generate tweets with:
 
-Topic, Tone, Audience, Hashtags
+Topic
 
+Tone
 
-Simple UI with ipywidgets
-Secure API key input (never stored)
+Audience
+
+Hashtags
+
+Simple UI using ipywidgets
+
+Secure API key input (never stored or exposed)
 
 ▶ How to Run
-bash!pip install google-generativeai ipywidgets
-Enter your Gemini API key and start generating tweets!
+bash
+Copy
+Edit
+!pip install google-generativeai ipywidgets
+Open the Colab notebook.
 
-Last updated: July 2025
+Enter your Gemini API Key.
+
+Start generating custom tweets instantly!
+
+📅 Last updated: July 2025
+
+
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
