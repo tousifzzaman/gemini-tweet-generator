@@ -20,3 +20,6 @@ An interactive Google Colab notebook that generates professional tweets using th
 
 ```bash
 !pip install google-generativeai ipywidgets
+````
+
+## 📅 Last updated: July 2025
